@@ -38,6 +38,7 @@ Once it is up and running, type **vagrant ssh.** This will log your terminal int
 
 Now that you have Vagrant up and running type **vagrant ssh** to log into your VM. change to the /vagrant directory by typing **cd /vagrant**. This will take you to the shared folder between your virtual machine and host machine.
 
+## To Run Log Analysis Project
 From the terminal, run: git clone https://github.com/ChandrakalaRatan/log_analysis.git  and change the directory in **cd log_analysis** directory
 
 Type ls to ensure that you are inside the directory that contains **newsdata.sql**, **log_analysis.py** **log_analysis_result.rft**,**README.md**.
